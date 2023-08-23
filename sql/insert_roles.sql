@@ -1,3 +1,3 @@
 INSERT INTO roles (name)
 VALUES
-("POST"),("PUT"),("DELETE"),("GET"),("PATCH");
+("POST"),("PUT"),("DELETE"),("GET");
